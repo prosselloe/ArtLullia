@@ -37,8 +37,8 @@ function geovisit()
 }
 
 /*
-     FILE ARCHIVED ON 22:03:15 Apr 12, 2012 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 07:45:41 Jul 12, 2026.
+     FILE ARCHIVED ON 00:19:34 Dec 05, 2008 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 07:50:49 Jul 12, 2026.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -46,8 +46,8 @@ function geovisit()
 */
 /*
 playback timings (ms):
-  capture_cache.get: 0.289
-  load_resource: 224.496 (2)
-  PetaboxLoader3.resolve: 75.865 (2)
-  PetaboxLoader3.datanode: 29.372 (2)
+  capture_cache.get: 0.442
+  load_resource: 116.712
+  PetaboxLoader3.resolve: 67.076
+  PetaboxLoader3.datanode: 22.232
 */
