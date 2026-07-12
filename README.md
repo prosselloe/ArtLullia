@@ -54,5 +54,5 @@ L'Ars (mot llatí que significa "art"), Ars combinatoria o Art lul·liana consis
                  src="img/diagrama_flux.jpg" alt="diagrama_flux" width="1000"/>
         </td>
     </tr>
-</table>
-# Mnemonic Arts of Blessed Ramon Llull
+</table> 
+# <a href="https://artlulliana.netlify.app/lullianarts.net">Mnemonic Arts of Blessed Ramon Llull</a>
