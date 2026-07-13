@@ -1,5 +1,5 @@
-# <a href="https://artlulliana.netlify.app">Art lul·liana</a>
-L'Ars (mot llatí que significa "art"), Ars combinatoria o Art lul·liana consisteix en un sistema filosòfic, impulsat i creat per Ramon Llull, amb l'objectiu de permetre demostrar, a través de l'argumentació filosòfica racional, la veritat del cristianisme als infidels mitjançant tècniques racionals de notació simbòlica i diagrames combinatoris. Llull escrigué diverses variants i simplificacions d'aquest sistema filosòfic com són l'Ars magna (1276), l'Art demostrativa (1283), l'Ars inventiva (1289) i l'Art breu (1308), entre d'altres. Intentant plasmar les 16 figures de la seva Art.
+# <a href="https://artlulliana.netlify.app">Art lul·lià</a>
+L'Ars (mot llatí que significa "art"), Ars combinatoria o Art lul·lià consisteix en un sistema filosòfic, impulsat i creat per Ramon Llull, amb l'objectiu de permetre demostrar, a través de l'argumentació filosòfica racional, la veritat del cristianisme als infidels mitjançant tècniques racionals de notació simbòlica i diagrames combinatoris. Llull escrigué diverses variants i simplificacions d'aquest sistema filosòfic com són l'Ars magna (1276), l'Art demostrativa (1283), l'Ars inventiva (1289) i l'Art breu (1308), entre d'altres. Intentant plasmar les 16 figures de la seva Art.
 # <a href="https://artlulliana.netlify.app/artbreu.html">Art breu</a>
 <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
        style='border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
@@ -55,4 +55,4 @@ L'Ars (mot llatí que significa "art"), Ars combinatoria o Art lul·liana consis
         </td>
     </tr>
 </table> 
-# <a href="https://artlulliana.netlify.app/lullianarts.net">Mnemonic Arts of Blessed Ramon Llull</a>
+<h1><a href="https://artlulliana.netlify.app/lullianarts.net">Mnemonic Arts of Blessed Ramon Llull</a></h1>
